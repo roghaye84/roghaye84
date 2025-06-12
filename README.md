@@ -1,4 +1,4 @@
-## Hello World I'm Roghayeh Web dev✌🏻
+## Hello World I'm Roghayeh Web developer ✌🏻
 
  Front-End Developer<br><br>HTML/CSS | JavaScript | React<br><br>WordPress | 10+ projects<br><br>Focused on clean, responsive UIs<br><br>Learning modern frameworks<br><br>I like knitting 🧶<br>
 
